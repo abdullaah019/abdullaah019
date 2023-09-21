@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Phishing Analysis Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Categorizing Phishing Emails & Manual Artifact Extraction](https://github.com/abdullaah019/Phishing-Analysis/tree/main)
 - <b>Threat Intelligence Lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Digital Forensics Lab</b>
