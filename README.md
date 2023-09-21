@@ -7,10 +7,8 @@
 - <b>Threat Intelligence Lab</b>
   - [Threat Intelligance](https://github.com/abdullaah019/Threat-Intelligence/blob/main/README.md) <b><i>(Using MISP)</b></i>
 - <b>Digital Forensics Lab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows Investigation 1-2 Solution](https://github.com/abdullaah019/DigitalForensics/blob/main/README.md#digitalforensics)
+ 
 - <b> Security Information and Event Monitoring Lab</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
