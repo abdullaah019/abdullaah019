@@ -9,8 +9,11 @@
 - <b>Digital Forensics Lab</b>
   - [Windows Investigation 1-2 Solution](https://github.com/abdullaah019/DigitalForensics/blob/main/README.md#digitalforensics)
  
-- <b> Splunk Investigation 1 - 4 Lab</b>
-  - [Splunk Investigation 1 - 4 Lab](https://github.com/joshmadakor1/EncrypterPOC)
+- <b> Security Information and Event Monitoring</b>
+  - [Splunk Investigation 1 Lab](https://github.com/abdullaah019/SplunkInvestigation)
+  - [Splunk Investigation 2 Lab](https://github.com/abdullaah019/splunkinvestigation2)
+  - [Splunk Investigation 3 Lab](https://github.com/abdullaah019/splunkinvestigation3)
+  - [Splunk Investigation 4 Lab](https://github.com/abdullaah019/splunkinvestigation4)
 
 - <b> Incident Response Lab</b>
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
